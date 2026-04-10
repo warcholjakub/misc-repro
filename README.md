@@ -8,7 +8,7 @@
   <h4>Repository for miscellaneous reproductions and code snippets.</h4>
 
   <p>
-    <img src="https://img.shields.io/github/last-commit/warcholjakub/cuttledeck?color=orange" alt="Last Commit" />
+    <img src="https://img.shields.io/github/last-commit/warcholjakub/misc-repro?color=orange" alt="Last Commit" />
   </p>
 
 </div>
