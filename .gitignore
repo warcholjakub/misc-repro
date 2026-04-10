@@ -1,0 +1,8 @@
+target/
+.metals/
+.bloop/
+metals.sbt
+.bsp/
+.scala-build/
+.vscode/
+.DS_Store
